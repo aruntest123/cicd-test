@@ -1,0 +1,14 @@
+{"level":"info","message":"Starting lsp","timestamp":"2017-08-28T08:37:30.839Z"}
+{"level":"debug","message":"on file open output:Git","timestamp":"2017-08-28T08:37:30.859Z"}
+{"level":"debug","message":"on file open file:///Users/asrisail/Documents/Arun/Trials/Github/cicd-test/package.json","timestamp":"2017-08-28T08:37:30.863Z"}
+{"level":"debug","message":"on file open git:/Users/asrisail/Documents/Arun/Trials/Github/cicd-test/package.json","timestamp":"2017-08-28T08:37:30.879Z"}
+{"level":"debug","message":"on file open vscode://schemas/vscode-extensions","timestamp":"2017-08-28T08:37:30.890Z"}
+{"level":"debug","message":"on file open output:extension-output-%231","timestamp":"2017-08-28T08:37:30.913Z"}
+{"level":"debug","message":"on change git:/Users/asrisail/Documents/Arun/Trials/Github/cicd-test/package.json","timestamp":"2017-08-28T08:37:33.249Z"}
+{"level":"debug","message":"on file open file:///Users/asrisail/Documents/Arun/Trials/Github/cicd-test/.travis.yml","timestamp":"2017-08-28T08:37:36.369Z"}
+{"level":"debug","message":"on file open git:/Users/asrisail/Documents/Arun/Trials/Github/cicd-test/.travis.yml","timestamp":"2017-08-28T08:37:36.568Z"}
+{"level":"debug","message":"on change git:/Users/asrisail/Documents/Arun/Trials/Github/cicd-test/.travis.yml","timestamp":"2017-08-28T08:37:36.914Z"}
+{"level":"debug","message":"on change file:///Users/asrisail/Documents/Arun/Trials/Github/cicd-test/.travis.yml","timestamp":"2017-08-28T08:37:41.351Z"}
+{"level":"debug","message":"on change file:///Users/asrisail/Documents/Arun/Trials/Github/cicd-test/.travis.yml","timestamp":"2017-08-28T08:37:42.514Z"}
+{"level":"debug","message":"on save file:///Users/asrisail/Documents/Arun/Trials/Github/cicd-test/.travis.yml","timestamp":"2017-08-28T08:37:42.571Z"}
+{"level":"debug","message":"on change git:/Users/asrisail/Documents/Arun/Trials/Github/cicd-test/.travis.yml","timestamp":"2017-08-28T08:37:44.816Z"}
