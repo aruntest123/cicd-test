@@ -5,5 +5,5 @@ deploy:
   api_key:
     secure: WlBO8tomg3uYOX+QiGN9Y9LNbYbNAG651b8OzSfWeJ5U5xh8kpkPgEccs3ynhYw6npuQ4Vn+RkLkQ3V057F2HKVEGG9sfOkVY2Gk2ZvvIYZQvTt58mRuwu7PuDyHfrVy5+3JDmiihSK6Jo8b22DP1h2I+c+tu+N4Hf5BxAYh6oQpZ5cNnphqLeDgszocJ+sd1VXXWEoYPaR5s+RRBLr+VzaAhaII6AT7kHGl1+uCY1NyCFEJwrz6vJKuC/CJVTkRlBvzitfQrGhZRsFRGbvACOcTNXPpugOg8A9M8ptE2udBiRjy06GcgAY4pqjsbWzNAMwjsVadGqj0E/XvVigiahghNR3ZDGrX+oYSBZyHffJuvAkcvOQzwJZPvqHZRd4Ro6eCeozfo0nh41eeIzgdu4sxr8EGUdAS4uDKtHBNAJ0sv1/mYLaiiAzzRf6klDc1VLqdnbpvBOV1Keo2X+7AyTGgTF4PmyMEfcr/9rdybeYu198w4e/klTSwQOxl1HWlm0UAyfaNxojhwBArT2x8NRsfNtGvQKxoU4ZFFUkn/y6Ce/orLHVgHKKi/SygbQZz0bIBmtGy30qJJWk1TnLlhc9EhJcSRs0u9FDqh/+/u1ljZU1o4SC1RXw0wueudUaZAQ7L3WrbUxcFVZCoI8SCQsSKgX1BMskugKJIohIief4=
   on:
-    tags: true
+    branch: master
     repo: aruntest123/cicd-test
