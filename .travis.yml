@@ -1,2 +1,5 @@
 language: node_js
-
+deploy:
+    provider: npm
+    email: sail.arunkumar@gmail.com
+    api_key: d3134c8a-1bf3-4a67-bb8d-72881d94aa11
